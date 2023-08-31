@@ -2875,41 +2875,16 @@ assets:
   method: copy
   source:
     - name: obj/P_EX030_XM.a.jp
-- name: raw/obj/P_EX100.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100.a.jp
 - name: raw/obj/P_EX100_AL_CARPET.a.jp
   package: kh2_first
   method: copy
   source:
     - name: obj/P_EX100_AL_CARPET.a.jp
-- name: raw/obj/P_EX100_BTLF.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_BTLF.a.jp
-- name: raw/obj/P_EX100_HTLF.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_HTLF.a.jp
 - name: raw/obj/P_EX100_HTLF_BTL.a.jp
   package: kh2_first
   method: copy
   source:
     - name: obj/P_EX100_HTLF_BTL.a.jp
-- name: raw/obj/P_EX100_KH1F.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_KH1F.a.jp
-- name: raw/obj/P_EX100_MAGF.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_MAGF.a.jp
 - name: raw/obj/P_EX100_NM.a.jp
   package: kh2_first
   method: copy
@@ -2955,26 +2930,6 @@ assets:
   method: copy
   source:
     - name: obj/P_EX100_TR.a.jp
-- name: raw/obj/P_EX100_TRIF.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_TRIF.a.jp
-- name: raw/obj/P_EX100_TR_BTLF.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_TR_BTLF.a.jp
-- name: raw/obj/P_EX100_TR_HTLF.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_TR_HTLF.a.jp
-- name: raw/obj/P_EX100_TR_KH1F.a.jp
-  package: kh2_first
-  method: copy
-  source:
-    - name: obj/P_EX100_TR_KH1F.a.jp
 - name: raw/obj/P_EX100_TR_LIGHTCYCLE.a.jp
   package: kh2_first
   method: copy
@@ -2995,11 +2950,16 @@ assets:
   method: copy
   source:
     - name: obj/P_EX100_TR_ULTF.a.jp
-- name: raw/obj/P_EX100_ULTF.a.jp
+- name: raw/obj/P_EX100_TR_BTLF.a.jp
   package: kh2_first
   method: copy
   source:
-    - name: obj/P_EX100_ULTF.a.jp
+    - name: obj/P_EX100_TR_BTLF.a.jp
+- name: raw/obj/P_EX100_TR_HTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_HTLF.a.jp
 - name: raw/obj/P_EX100_WI.a.jp
   package: kh2_first
   method: copy
