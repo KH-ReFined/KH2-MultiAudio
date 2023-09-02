@@ -2940,6 +2940,11 @@ assets:
   method: copy
   source:
     - name: obj/P_EX100_TR_MAGF.a.jp
+- name: raw/obj/P_EX100_TR_KH1F.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_TRIF.a.jp
 - name: raw/obj/P_EX100_TR_TRIF.a.jp
   package: kh2_first
   method: copy
