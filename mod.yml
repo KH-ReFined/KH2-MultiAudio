@@ -3,6 +3,86 @@ originalAuthor: TopazTK
 description: The Multi-Audio Addon for Kingdom Hearts II - Re:Fined. Required for Re:Fined Audio Packs.
 assets:
 
+# === Dual Audio - Gummi Events ===
+
+- name: raw/libretto/jp/wm502.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm502.bar
+
+- name: raw/libretto/jp/wm503.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm503.bar
+
+- name: raw/libretto/jp/wm512.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm512.bar
+
+- name: raw/libretto/jp/wm521.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm521.bar
+
+- name: raw/libretto/jp/wm524.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm524.bar
+
+- name: raw/libretto/jp/wm1660.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1660.bar
+
+- name: raw/libretto/jp/wm1661.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1661.bar
+
+- name: raw/libretto/jp/wm1662.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1662.bar
+
+- name: raw/libretto/jp/wm1823.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1823.bar
+
+- name: raw/libretto/jp/wm1824.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1824.bar
+
+- name: raw/libretto/jp/wm1836.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1836.bar
+
+- name: raw/libretto/jp/wm1837.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1837.bar
+
+- name: raw/libretto/jp/wm1838.bar
+  package: kh2_fifth
+  method: copy
+  source:
+    - name: libretto/jp/wm1838.bar
+
 # === Dual Audio - Bosses ===
 
 - name: raw/obj/AL14_CARPET.a.jp
@@ -4703,6 +4783,11 @@ assets:
 
 # === Dual Audio - Voices [BATTLE] ===
 
+- name: voice/jp/gumibattle/gumi.win32.scd
+  package: kh2_first
+  method: copy
+  source:
+    - name: voice/jp/gumibattle/gumi.win32.scd
 - name: voice/jp/battle/abu.win32.scd
   package: kh2_first
   method: copy
